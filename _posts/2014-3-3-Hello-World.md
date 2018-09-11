@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Cost Shifting
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In the United States, the rates the government pays to hospitals through Medicare and Medicaid.
+are lower than the rates private payers pay to hospitals.
+The idea that hopsitals charge higher rates for private payers in order to 
+make up for the lower government rates is called cost shifting.
+Economists and health policy analysts disagree over the validity of cost shifting.  
+One study by Austin Frakt found that cost shifting occurs rarely.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+References:
+https://www.healthaffairs.org/doi/10.1377/hlthaff.2011.0813
+https://www.healthaffairs.org/doi/full/10.1377/hlthaff.4.3.67
+https://www.kff.org/report-section/uncompensated-care-for-the-uninsured-in-2013-a-detailed-examination-introduction/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160596/
