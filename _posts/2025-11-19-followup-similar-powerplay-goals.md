@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Follow-Up to 24-25 Winnipeg Jets Power Play Goals: Finding Goals That Follow the Same Play"
-date:   2025-11-19 20:20:18 -0500
+date:   2025-11-19 16:20:18 -0500
 categories: jekyll update
 ---
 
