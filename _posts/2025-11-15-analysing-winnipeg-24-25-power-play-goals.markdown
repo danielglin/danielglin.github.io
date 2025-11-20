@@ -47,6 +47,8 @@ With many goals shown, it's a little cluttered, but it's possible to see the puc
 In some goals, a Winnipeg player passes to the slot, while in others, the Jet player attacks the net from the goal line.
 One goal that differs from the others is the goal shown in blue, which is Scheifele's goal against the Sharks.
 
+**Update:** I made a [follow-up post](https://danielglin.github.io/jekyll/update/2025/11/19/followup-similar-powerplay-goals.html) that searched for power play goals similar to the first four goals in this cluster.
+
 Links to replays of the goals in this cluster:
 
 1. [Mar 11, 25: Gabriel Vilardi against the Rangers](https://www.nhl.com/ppt-replay/goal/2024021031/576)
