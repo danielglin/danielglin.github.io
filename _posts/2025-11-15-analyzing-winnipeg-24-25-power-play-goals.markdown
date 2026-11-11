@@ -22,7 +22,6 @@ To get the game and goal id's of their power play goals, I used the NHL's API as
 I already had the 24-25 regular season goal tracking data downloaded, so I could just use the game and goal id's of the Jets power play goals to filter the tracking data to just those goals.
 
 Then I encoded the goal tracking data into vectors using the approach I took to find similar goals.
-If you're interested in the details, check out [the repo](https://github.com/danielglin/nhl_goal_similarity/).
 This encoding only uses the puck tracking data, not the player tracking data.
 
 # Results
@@ -93,11 +92,8 @@ To check out the goals in the other clusters, please take a look at the appendix
 # Approach
 
 In order to cluster the power play goals, I had to first create vector representations for them.
-To do so, I used hyperdimensional computing, which uses high-dimensional random vectors to represent data.
-You can find more details on this vector representation of goals [here](https://github.com/danielglin/nhl_goal_similarity/).
-The repo also has the code to create those representations.
 
-One slight tweak I had to make here is to use just the last 17 instances of each goal's tracking data.
+Here I use just the last 17 instances of each goal's tracking data.
 During some early experiments, I noticed that the earlier instances in the tracking data were throwing off the results.
 Most goals had around 90-100 instances in their tracking data after trimming some instances to account for things like data before faceoffs or data after the puck enters the net.
 
